@@ -17,7 +17,7 @@ local options = {
   },
 
   indent = {
-    enable = true,
+    enable = false,
   },
 }
 
