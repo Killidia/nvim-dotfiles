@@ -10,7 +10,8 @@ local servers = {
   "jsonls",
   "tsserver",
   -- "denols",
-  "tailwindcss"
+  "tailwindcss",
+  "rust_analyzer"
 }
 
 for _, lsp in ipairs(servers) do

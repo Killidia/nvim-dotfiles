@@ -8,7 +8,8 @@ local b = null_ls.builtins
 
 local sources = {
   b.formatting.phpcsfixer,
-  b.formatting.prettier
+  b.formatting.prettier,
+  b.formatting.rustfmt
 }
 
 null_ls.setup {
